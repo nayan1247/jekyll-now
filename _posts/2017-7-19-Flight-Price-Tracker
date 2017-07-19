@@ -1,0 +1,22 @@
+---
+layout: post
+title: Flight Price Tracker - My first Data Science Application
+---
+
+Its been a while I started experimenting the full stack side of the data science paradigm. And I failed most of the times. Some times I was stuck at a weird bug, or unable to solve the interaction between two tools, or some other time priorities changed. I was never able to complete a working MVP end to end.
+And hence, this post is special. Very special for me because I have learned things in both Technical and Personal side of my life.
+
+Lets start with the geeky stuff. 
+
+The app is directed for end user usage to find out the price trends between Domestic Flights in India across major Origin Destination Pairs.
+It is currently restricted to larger airports and only direct flights.
+
+Tech Stack - Mongo DB, Python , Pandas, Scikit, Flask , Bootstrap , Jenkins, Plotly , CSS + HTML , Javascript, AJAX
+
+Scrape daily pricing data into Mongo. Used Pandas mainly for data wrangling, Scikit for modelling, Flask as the web framework along with Jenkins and Bootstrap for templates, Plotly charts and Javascript for client side single page ajax queries.
+
+
+
+![alt text](/images/FPT-Home-Page.png "Flight Price Tracker Home Page")
+
+
