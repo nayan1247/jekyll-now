@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A Data Science Enthusiast,a passionate technologist, follower of Sadhguru, and a student for LIFE. 
+Love Beaches, hills, valleys - everything about nature.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
