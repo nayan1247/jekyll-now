@@ -11,9 +11,9 @@ Lets start with the geeky stuff.
 The app is directed for end user usage to find out the price trends between Domestic Flights in India across major Origin Destination Pairs.
 It is currently restricted to larger airports and only direct flights.
 
-Tech Stack - Mongo DB, Python , Pandas, Scikit, Flask , Bootstrap , Jenkins, Plotly , CSS + HTML , Javascript, AJAX
+Tech Stack - Mongo DB, Python , Pandas, Scikit, Flask , Bootstrap , Jinja, Plotly , CSS + HTML , Javascript, AJAX
 
-Scrape daily pricing data into Mongo. Used Pandas mainly for data wrangling, Scikit for modelling, Flask as the web framework along with Jenkins and Bootstrap for templates, Plotly charts and Javascript for client side single page ajax queries.
+Scrape daily pricing data into Mongo. Used Pandas mainly for data wrangling, Scikit for modelling, Flask as the web framework along with Jinja and Bootstrap for templates, Plotly charts and Javascript for client side single page ajax queries.
 
 Here is a snapshot of the Landing page - 
 
