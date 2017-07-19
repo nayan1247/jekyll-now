@@ -16,13 +16,21 @@ Tech Stack - Mongo DB, Python , Pandas, Scikit, Flask , Bootstrap , Jenkins, Plo
 Scrape daily pricing data into Mongo. Used Pandas mainly for data wrangling, Scikit for modelling, Flask as the web framework along with Jenkins and Bootstrap for templates, Plotly charts and Javascript for client side single page ajax queries.
 
 Here is a snapshot of the Landing page - 
+
 ![alt text](/images/FPT-Home-Page.png "Flight Price Tracker Home Page")
 
+
+
 The OD pair page -  For choosen Origin and Destination gives average price (Y axis)  when booked # of days in advance (X axis) along with some other statistics.
+
 ![alt text](/images/FPT-OD-Pair.png "Flight Price Tracker OD Price Variation")
 
+
+
 Flight Price Predictor - For a choosen Flight Date, OD pair and the date when you plan to book the ticket predicts the ticket fare by FLight ID's on that route.
+
 ![alt text](/images/FPT-Price-Tracker.png "Flight Price Tracker")
+
 
 Most of the technologies were new to me except mongodb and python. And it took a good 3 months to reach here with a regular day job. Thanks to google and stackoverflow along with a few friends and colleagues who helped me fix bugs and give feedback.
 I am not going to deploy this yet publicly.
